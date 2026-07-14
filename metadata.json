@@ -1,0 +1,6 @@
+{
+  "name": "SigNoz Blog Draft & Audit Studio",
+  "description": "An interactive workspace and Gemini-powered auditor for writing winning SigNoz hackathon blogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
